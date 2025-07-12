@@ -17,11 +17,11 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Anne bugün yemekte ne var ?</ThemedText>
+        <ThemedText type="title">Movie App!  ?</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Yemekler </ThemedText>
+        <ThemedText type="subtitle">Step 1: Movie </ThemedText>
         <ThemedText>
           Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
           Press{' '}
